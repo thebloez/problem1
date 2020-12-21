@@ -14,6 +14,6 @@ $ mvn clean package
 ```
 running an application
 ```sh
-$ cd /target
+$ cd target/
 $ java -jar kitabisa-test-1.0-SNAPSHOT.jar "string param"
 ```
